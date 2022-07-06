@@ -1,0 +1,60 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+header{
+  background-image: url(images/donation13.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  background-position: center;
+}
+.inner-text h1{
+  text-align: center;
+  padding-top: 300px;
+  font-size: 4rem;
+}
+.inner-text p{
+  font-size: 1.1rem;
+  margin-bottom: 35px;
+}
+.inner-text .btn{
+  background-color: rgb(244, 113, 66);
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 28px;
+  border-radius: 5px;
+}
+
+/* donation start */
+.Donate-today{
+  padding: 150px 120px;
+}
+.Donate-today .donate-text{
+  text-align: center;
+}
+.donate-text p{
+  color: grey;
+  margin-top: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
