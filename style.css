@@ -23,7 +23,7 @@ header{
   font-size: 4rem;
 }
 .inner-text p{
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-bottom: 35px;
 }
 .inner-text .btn{
@@ -85,7 +85,42 @@ header{
   margin-left: 45%;
 }
 
+/* donation plan */
 
+#donation-plan{
+  text-align: center;
+}
+#donation-plan h1{
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+#donation-plan p{
+  color: grey;
+}
+#donation-plan .donation-category{
+  display: flex;
+  padding: 70px 80px;
+  padding-left: 17%;
+  
+}
+#donation-plan .donation-category .box{
+  width: 28%;
+  height: 40vh;
+  margin: 10px;
+  padding: 19px;
+  border-radius: 3px;
+}
+#donation-plan .donation-category #box1{
+  background-color: rgb(234, 247, 243);
+}
+#donation-plan .donation-category #box2{
+  background-color: rgb(248, 235, 231);
+}
+#donation-plan .donation-category #box3{
+  background-color: rgb(246, 227, 210);
+}
+
+/* your donation */
 
 
 
