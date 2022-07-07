@@ -122,6 +122,74 @@ header{
 
 /* your donation */
 
+.your-donation{
+  display: flex;
+  padding: 50px 80px;
+  margin: 1.1rem;
+}
+.your-donation .your-donation-text h1{
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+.your-donation .your-donation-text p{
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: grey;
+}
+.your-donation .your-donation-text #para{
+  padding-bottom: 30px;
+}
+.your-donation .your-donation-text .btn2{
+  background-color: rgb(244, 113, 66);
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 28px;
+  border-radius: 5px;
+}
+.your-donation .your-donation-img img{
+  height: 80%;
+  border-radius: 5px;
+}
+
+/* they need */
+
+.they-need{
+  display: flex;
+  padding: 30px 70px;
+}
+.they-need .they-need-img img{
+  width: 80%;
+  border-radius: 5px;
+}
+.they-need .they-need-text h1{
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.they-need .they-need-text p{
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: grey;
+}
+.they-need .they-need-text .btn3{
+  background-color: rgb(244, 113, 66);
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 28px;
+  border-radius: 5px;
+}
+.they-need .they-need-text #para2{
+  padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
