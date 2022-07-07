@@ -181,11 +181,42 @@ header{
   padding-bottom: 20px;
 }
 
+
+/* our partner */
+
+#our-partner{
+  padding: 70px 140px;
+  text-align: center;
+}
+#our-partner h1{
+  font-size: 2.3rem;
+  margin-bottom: 1rem;
+}
+#our-partner p{
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+  color: grey;
+}
+#our-partner .our-partner-img img{
+  width: 200px;
+  padding: 20px;
+}
+#our-partner .btn5{
+  border: none;
+  background-color: rgb(244, 113, 66);
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 28px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  margin-top: 40px;
+}
+
 /* get update */
 
 .get-update{
   text-align: center;
-  padding: 100px 120px;
+  padding: 90px 120px;
 }
 .get-update h1{
   font-size: 2.3rem;
@@ -211,6 +242,7 @@ header{
   margin-right: 0px;
   border-radius: 5px;
   margin-bottom: 65px;
+  
 }
 .get-update .get-update-data form #btn4{
   border: none;
@@ -219,9 +251,11 @@ header{
   color: #fff;
   margin-left: 0px;
   border-radius: 5px;
+  
 }
 .get-update .get-update-data form{
   margin-right: 11%;
+  
 }
 
 /* footer */
@@ -234,11 +268,11 @@ footer{
 footer h1{
   color:rgb(244, 113, 66) ;
   font-size: 1.8rem;
-  font-family: 'Dancing Script', cursive;
   margin-bottom: 1rem;
 }
 footer small{
   color: #fff;
+  font-size: 17px;
 }
 
 
